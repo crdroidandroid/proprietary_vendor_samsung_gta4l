@@ -271,6 +271,9 @@ mtuTableEntry attributes:
     <mtuTableEntry numeric="27201" mtu="1330" profile="2"/>
     <mtuTableEntry numeric="27201" mtu="1330" rat="4"/>
 
+<!-- Nova IS -->
+    <mtuTableEntry numeric="27411" mtu="1280" profile="2"/>
+
 <!-- A1 Bulgaria -->
     <mtuTableEntry numeric="28401" mtu="1330" profile="2"/>
     <mtuTableEntry numeric="28401" mtu="1330" rat="4"/>
