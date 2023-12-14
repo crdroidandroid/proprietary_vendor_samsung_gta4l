@@ -61,6 +61,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/gta4l/proprietary/vendor/firmware/wlanmdsp_SM-T505.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/wlanmdsp_SM-T505.mbn \
     vendor/samsung/gta4l/proprietary/vendor/firmware/wlanmdsp_SM-T505C.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/wlanmdsp_SM-T505C.mbn \
     vendor/samsung/gta4l/proprietary/vendor/firmware/wlanmdsp_SM-T505N.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/wlanmdsp_SM-T505N.mbn \
+    vendor/samsung/gta4l/proprietary/vendor/firmware/wlanmdsp_SM-T507.mbn:$(TARGET_COPY_OUT_VENDOR)/firmware/wlanmdsp_SM-T507.mbn \
     vendor/samsung/gta4l/proprietary/vendor/lib/libcne.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcne.so \
     vendor/samsung/gta4l/proprietary/vendor/lib/libcneapiclient.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcneapiclient.so \
     vendor/samsung/gta4l/proprietary/vendor/lib/vendor.qti.data.factory@2.0.so:$(TARGET_COPY_OUT_VENDOR)/lib/vendor.qti.data.factory@2.0.so \
