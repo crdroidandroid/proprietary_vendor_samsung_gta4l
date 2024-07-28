@@ -121,3 +121,22 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     CneApp
+
+PRODUCT_PACKAGES += \
+    ImsService \
+    samsung-common \
+    samsung-framework \
+    samsung-ims-base \
+    samsung-ims-common \
+    samsung-telecom-common \
+    samsung-telephony-base \
+    samsung-telephony-common
+
+PRODUCT_BOOT_JARS += \
+    samsung-common \
+    samsung-framework \
+    samsung-ims-base \
+    samsung-ims-common \
+    samsung-telecom-common \
+    samsung-telephony-base \
+    samsung-telephony-common
